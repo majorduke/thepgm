@@ -11,4 +11,5 @@
 ! There can be, perhaps, less than basic needs for two more commands, which might be added later. Each can be one character.
 ! * "help" -- display instructions. We developers can do without this for now, and should not do it until we know what works.
 ! * "quit" -- exit the program.  "clean exit" is not required. For now, control-C works fine.
+! These could be the commands for controlling the simulator program.
 !
