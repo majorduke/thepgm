@@ -5,7 +5,7 @@
 program thepgm
 ! test for mainloopinput
   character*1 mainloopinput
-  do
+  do i=1, 100
     print *,':'/mainloopinput/':'
   end do
 contains
